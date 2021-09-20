@@ -1,5 +1,5 @@
 # merge-conflict
-The sun glows yellow on the mountain this morning
+The snow flows white on the mountain today
 Not a footprint to be seen
 A kingdom of isolation
 And it looks like I'm the queen
